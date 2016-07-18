@@ -10,7 +10,7 @@
 1. Open HyperTerm's preferences with `Cmd + ,` (or manually at `~/.hyperterm.js`) with your editor.
 2. Update your list of plugins to include `hyperterm-electron-highlighter`, like so:
 
-```js
+  ```js
 plugins: [
   'hyperterm-electron-highlighter'
 ],
