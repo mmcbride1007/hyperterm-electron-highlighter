@@ -1,26 +1,26 @@
 
-const backgroundColor = '#282c34'
-const foregroundColor = '#abb2bf'
+const backgroundColor = '#212836'
+const foregroundColor = '#96a6c8'
 const cursorColor = foregroundColor
 const borderColor = backgroundColor
 
 const colors = [
   backgroundColor,
-  '#e06c75', // red
-  '#98c379', // green
-  '#d19a66', // yellow
-  '#56b6c2', // blue
-  '#c678dd', // pink
-  '#56b6c2', // cyan
-  '#d0d0d0', // light gray
-  '#808080', // medium gray
-  '#e06c75', // red
-  '#98c379', // green
-  '#d19a66', // yellow
-  '#56b6c2', // blue
-  '#c678dd', // pink
-  '#56b6c2', // cyan
-  '#ffffff', // white
+  '#e2495c', // red
+  '#6ff875', // green
+  '#dfd282', // yellow
+  '#5f9dfe', // blue
+  '#ca80f5', // pink
+  '#60f2f7', // cyan
+  '#c0c5ce', // light gray
+  '#65737e', // medium gray
+  '#e2495c', // red
+  '#6ff875', // green
+  '#dfd282', // yellow
+  '#5f9dfe', // blue
+  '#ca80f5', // pink
+  '#60f2f7', // cyan
+  '#dfe1e8', // white
   foregroundColor
 ]
 
@@ -47,7 +47,7 @@ exports.decorateConfig = config => {
         left: 0;
       }
       .tabs_list {
-        background-color: #21252b !important;
+        background-color: #191d29 !important;
         border-bottom-color: rgba(0,0,0,.15) !important;
       }
       .tab_tab.tab_active {
