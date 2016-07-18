@@ -47,7 +47,7 @@ exports.decorateConfig = config => {
         left: 0;
       }
       .tabs_list {
-        background-color: #191d29 !important;
+        background-color: #1b212c !important;
         border-bottom-color: rgba(0,0,0,.15) !important;
       }
       .tab_tab.tab_active {
