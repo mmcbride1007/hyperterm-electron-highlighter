@@ -2,7 +2,7 @@
 
 [HyperTerm](https://hyperterm.org) theme based on [the Atom Electron Highlighter Syntax](https://github.com/mmcbride1007/electron-highlighter-syntax). Forked from @mdo's [HyperTerm Atom Dark](https://github.com/mdo/hyperterm-atom-dark) and modified by @mmcbride1007.
 
-![Screenshot with content](https://cdn.rawgit.com/mmcbride1007/hyperterm-electron-highlighter/master/screenshot.png)
+![](screenshot.png)
 
 ### Install
 
