@@ -1,28 +1,27 @@
 
 const backgroundColor = '#212836'
 const foregroundColor = '#96a6c8'
-const cursorColor = '#528bff'
+const cursorColor = 'rgba(82,139,255,.5)'
 const borderColor = backgroundColor
 
-const colors = [
-  backgroundColor,
-  '#e2495c', // red
-  '#6ff875', // green
-  '#dfd282', // yellow
-  '#5f9dfe', // blue
-  '#ca80f5', // pink
-  '#60f2f7', // cyan
-  '#c0c5ce', // light gray
-  '#65737e', // medium gray
-  '#e2495c', // red
-  '#6ff875', // green
-  '#dfd282', // yellow
-  '#5f9dfe', // blue
-  '#ca80f5', // pink
-  '#60f2f7', // cyan
-  '#dfe1e8', // white
-  foregroundColor
-]
+const colors = {
+  black: backgroundColor,
+  red: '#e2495c',
+  green: '#6ff875',
+  yellow: '#dfd282',
+  blue: '#5f9dfe',
+  magenta: '#ca80f5',
+  cyan: '#60f2f7',
+  white: '#c0c5ce',
+  lightBlack: '#65737e',
+  lightRed: '#e2495c',
+  lightGreen: '#6ff875',
+  lightYellow: '#dfd282',
+  lightBlue: '#5f9dfe',
+  lightMagenta: '#ca80f5',
+  lightCyan: '#60f2f7',
+  lightWhite: '#dfe1e8'
+}
 
 exports.decorateConfig = config => {
   console.log('Hi mom!')
