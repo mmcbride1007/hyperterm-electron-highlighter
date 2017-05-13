@@ -11,5 +11,9 @@
     "electron-highlighter"
   ],
   "author": "Mike McBride",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmcbride1007/hyperterm-electron-highlighter.git"
+  },
   "license": "MIT"
 }
