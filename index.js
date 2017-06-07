@@ -120,5 +120,5 @@ exports.decorateConfig = config => {
         background-color: ${tabActiveBorder};
       }
     `
-  }
-});
+  })
+};
