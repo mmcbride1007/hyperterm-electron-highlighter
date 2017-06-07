@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-electron-highlighter",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Hyperterm theme based on Atom Electron Highlighter syntax",
   "main": "index.js",
   "keywords": [
